@@ -1,4 +1,3 @@
-from sqlite3 import Cursor
 from django.shortcuts import render
 from django.http import HttpResponse
 from proyectoapp.models import Curso
